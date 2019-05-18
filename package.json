@@ -1,0 +1,17 @@
+{
+  "name": "sigma",
+  "version": "0.0.1",
+  "description": "An Algebra library.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [
+    "math"
+  ],
+  "author": "Rishi Kothari",
+  "license": "MIT",
+  "devDependencies": {
+    "mocha": "^6.1.4"
+  }
+}
