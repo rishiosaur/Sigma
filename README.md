@@ -1,0 +1,2 @@
+# Sigma
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/f547cfab92e448a3ac788e4a4baa20d4)](https://app.codacy.com/app/rishiosaur/Sigma?utm_source=github.com&utm_medium=referral&utm_content=rishiosaur/Sigma&utm_campaign=Badge_Grade_Dashboard)
